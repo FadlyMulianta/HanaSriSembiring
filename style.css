@@ -1,0 +1,42 @@
+*{
+    scroll-behavior: smooth;
+}
+
+
+
+#fhana1{
+    margin-left: 4rem;
+    width: 450px;
+}
+
+#home h2{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+  /* animation: berjalan 5s steps(19) infinite alternate, blink 1s infinite; */
+}
+
+/* @keyframes berjalan{
+    0%{
+        width: 0;
+        visibility: hidden;
+    }
+    50%{
+        width: 100%;
+    }
+} */
+
+#naa{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-weight: bolder;
+}
+
+/* #about img{
+    width: 320px;
+    
+} */
+
+/* #about h1 span{
+    color: #;
+} */
